@@ -1,0 +1,57 @@
+Category,Sub Category,Success,Failure
+Account Logon,Kerberos Service Ticket Operations,Enable,Enable
+Account Logon,Other Account Logon Events,Enable,Enable
+Account Logon,Kerberos Authentication Service,Enable,Enable
+Account Logon,Credential Validation,Enable,Enable
+Account Management,Computer Account Management,Enable,Enable
+Account Management,Security Group Management,Enable,Enable
+Account Management,Distribution Group Management,Enable,Enable
+Account Management,Application Group Management,Enable,Enable
+Account Management,Other Account Management Events,Enable,Enable
+Account Management,User Account Management,Enable,Enable
+Detailed Tracking,Process Termination,Enable,Enable
+Detailed Tracking,DPAPI Activity,Disable,Disable
+Detailed Tracking,RPC Events,Enable,Enable
+Detailed Tracking,Process Creation,Enable,Enable
+DS Access,Directory Service Changes,Enable,Enable
+DS Access,Directory Service Replication,Disable,Disable
+DS Access,Detailed Directory Service Replication,Disable,Disable
+DS Access,Directory Service Access,Enable,Enable
+Logon/Logoff,Logon,Enable,Enable
+Logon/Logoff,Logoff,Enable,Enable
+Logon/Logoff,Account Lockout,Enable,Enable
+Logon/Logoff,IPsec Main Mode,Disable,Disable
+Logon/Logoff,IPsec Quick Mode,Disable,Disable
+Logon/Logoff,IPsec Extended Mode,Disable,Disable
+Logon/Logoff,Special Logon,Enable,Enable
+Logon/Logoff,Other Logon/Logoff Events,Enable,Enable
+Logon/Logoff,Network Policy Server,Enable,Enable
+Logon/Logoff,Group Membership,Enable,Enable
+Object Access,File System,Enable,Enable
+Object Access,Registry,Enable,Enable
+Object Access,Kernel Object,Enable,Enable
+Object Access,SAM,Disable,Disable
+Object Access,Certification Services,Enable,Enable
+Object Access,Application Generated,Enable,Enable
+Object Access,Handle Manipulation,Disable,Disable
+Object Access,File Share,Enable,Enable
+Object Access,Filtering Platform Packet Drop,Disable,Disable
+Object Access,Filtering Platform Connection,Disable,Disable
+Object Access,Other Object Access Events,Enable,Enable
+Object Access,Detailed File Share,Disable,Disable
+Object Access,Removable Storage,Enable,Enable
+Object Access,Central Policy Staging,Disable,Disable
+Policy Change,Authentication Policy Change,Enable,Enable
+Policy Change,Authorization Policy Change,Enable,Enable
+Policy Change,MPSSVC Rule-Level Policy Change,Disable,Disable
+Policy Change,Filtering Platform Policy Change,Enable,Enable
+Policy Change,Other Policy Change Events,Disable,Enable
+Policy Change,Audit Policy Change,Enable,Enable
+Privilege Use,Non Sensitive Privilege Use,Enable,Enable
+Privilege Use,Other Privilege Use Events,Enable,Enable
+Privilege Use,Sensitive Privilege Use,Enable,Enable
+System,Security System Extension,Enable,Enable
+System,System Integrity,Enable,Enable
+System,IPsec Driver,Disable,Disable
+System,Other System Events,Disable,Disable
+System,Security State Change,Enable,Enable
