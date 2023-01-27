@@ -19,7 +19,7 @@ For getting security auditing policies setting
 ```Powershell
 Get-RecommendedPolicies
 ```
-For setting your machine auditing setting as per recommendation
+For enabling your machine auditing setting as per recommendation
 ```Powershell
 Set-RecommendedPolicies
 ```
